@@ -1127,7 +1127,7 @@ do
 				--
 				local Window = {
 					Title = Properties.Name or "",
-					SubTitle = Properties.SubTitle or "cheat",
+					SubTitle = Properties.SubTitle or " cheat",
 					Suite = Properties.Suite or "debug",
 					Extra = Properties.Extra or "- lua(s) loaded: 0 - config: none.cfg",
 					Pages = {},
